@@ -1,0 +1,4 @@
+Layout/MultilineOperationIndentation:
+  Enabled: false
+Layout/EmptyLineAfterGuardClause:
+  Enabled: false
