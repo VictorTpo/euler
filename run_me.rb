@@ -71,6 +71,10 @@ def show_time(start_at)
   end
 end
 
+def add_few_lines
+  p 'lol'
+end
+
 if ARGV.any?
   prob_num = ARGV[0]
 else
